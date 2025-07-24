@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GithubNew\\8\\Limbo\\Limbo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{576CD124-04E3-4253-B0BD-27FBBACD4B9D}|Limbo-Bot-Casino\\Limbo-Hack.csproj|d:\\githubnew\\8\\limbo\\limbo\\limbo-bot-casino\\limbo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{576CD124-04E3-4253-B0BD-27FBBACD4B9D}|Limbo-Bot-Casino\\Limbo-Hack.csproj|solutionrelative:limbo-bot-casino\\limbo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{576CD124-04E3-4253-B0BD-27FBBACD4B9D}|Limbo-Bot-Casino\\Limbo-Hack.csproj|d:\\githubnew\\8\\limbo\\limbo\\limbo-bot-casino\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{576CD124-04E3-4253-B0BD-27FBBACD4B9D}|Limbo-Bot-Casino\\Limbo-Hack.csproj|solutionrelative:limbo-bot-casino\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\GithubNew\\8\\Limbo\\Limbo\\Limbo-Bot-Casino\\Program.cs",
+              "RelativeDocumentMoniker": "Limbo-Bot-Casino\\Program.cs",
+              "ToolTip": "D:\\GithubNew\\8\\Limbo\\Limbo\\Limbo-Bot-Casino\\Program.cs",
+              "RelativeToolTip": "Limbo-Bot-Casino\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T18:03:26.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Limbo.cs [Design]",
+              "DocumentMoniker": "D:\\GithubNew\\8\\Limbo\\Limbo\\Limbo-Bot-Casino\\Limbo.cs",
+              "RelativeDocumentMoniker": "Limbo-Bot-Casino\\Limbo.cs",
+              "ToolTip": "D:\\GithubNew\\8\\Limbo\\Limbo\\Limbo-Bot-Casino\\Limbo.cs [Design]",
+              "RelativeToolTip": "Limbo-Bot-Casino\\Limbo.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T18:03:25.536Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
